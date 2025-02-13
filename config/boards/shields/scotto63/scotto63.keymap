@@ -156,7 +156,7 @@
                 &kp TAB    &kp Q         &kp W  &kp F    &kp P    &kp G                                                &kp J                    &kp L             &kp U             &kp Y       &kp BACKSPACE   &kp BACKSLASH
                 &kp CAPS   &kp A         &kp R  &kp S    &kp T    &kp D     &none           &none &none                &kp H                    &kp N             &kp E             &kp I       &kp O           &kp ENTER
                 &kp LSHIFT &bm LSHIFT Z  &kp X  &kp C    &kp V    &kp B     &none           &none &none                &kp K                    &kp M             &kp COMMA         &kp PERIOD  &bm RSHIFT FSLH &kp RSHIFT
-                                                &none    &kp LGUI &kp LALT  &sm LCTRL SPACE &none &lt WINDOWS_CODE TAB &lt WINDOWS_NUMBER ENTER &td_multi_windows &none
+                                                &kp LGUI  &kp LGUI &kp LALT  &sm LCTRL SPACE &none &lt WINDOWS_CODE TAB &lt WINDOWS_NUMBER ENTER &td_multi_windows &none
             >;
         };
 
